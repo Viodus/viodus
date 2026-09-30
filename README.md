@@ -60,7 +60,7 @@
 | **Kartuş & Yönlendirici** | Arge Çalışması TÜBİTAK onaylı hammaddeden üretilmiştir, Sıcak-Soğuk Su Karıştırıcı Seramik Diskli Kartuş |
 | **Nozul Tipi** | Antikireç (Anti-limescale) Kolay Temizlenen Silikon Jetler |
 | **Resmi Tesciller** | Türk Patent No: 2025/005803, 2025/006531, 2026/003613 |
-| **Üretici Garantisi** | 3 Yıl Tam Garanti, 10 Yıl Yedek Parça Desteği |
+| **Üretici Garantisi** | 3 Yıl Tam Garanti |
 
 ---
 
