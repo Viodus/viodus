@@ -69,6 +69,7 @@
 * **Resmi Web Platformu:** [https://www.viodus.com/](https://www.viodus.com/)
 * **İnteraktif 3D Katalog:** [Viodus 2027 Online Kataloğu İncele](https://www.viodus.com/#viodusOnlineCatalog)
 * **Kurumsal Belgeler:** [Belgelerimiz & Patent Sertifikaları](https://www.viodus.com/belgelerimiz/)
+* **Medium Mimari Yayını:** [Mimari Islak Hacim Standartları Kılavuzu (DA 95)](https://medium.com/@info_11645/https-www-viodus-com-havuz-dusu-secimi-klor-ve-tuza-dayanikli-kolonlar-1abca49f37da)
 * **Proje ve Toptan Bayilik Talepleri:** [İletişim & Teklif Formu](https://www.viodus.com/iletisim/)
 
 ---
