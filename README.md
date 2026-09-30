@@ -32,7 +32,7 @@
 ### 1. [Duş Paneli Modelleri (Shower Panels)](https://www.viodus.com/dus-paneli/)
 * **Gövde:** AISI 304 kalite paslanmaz çelik veya 1. sınıf elektrostatik fırın boyalı alüminyum alaşım.
 * **Öne Çıkan Özellik:** Patentli gövdeye entegre paslanmaz şampuanlık niş rafı (**[Nişli Duş Panelleri](https://www.viodus.com/product/ku-6001-kugu-siyah-sabunluklu/)** serisi).
-* **Fonksiyonlar:** Geniş açılı kireç kırıcı tepe yağmurlama, çift hidromasaj sırt jeti, krom el duşu ve pirinç küvet bataryası.
+* **Fonksiyonlar:** Geniş açılı kireç kırıcı tepe yağmurlama, çift hidromasaj sırt jeti, krom el duşu ve küvet bataryası.
 
 ### 2. [Havuz Duşu Sistemleri (Poolside Showers)](https://www.viodus.com/havuz-dusu/)
 * **Gövde:** Klor buharı, yüksek tuzluluk oranı ve ağır kış şartlarına dayanıklı yekpare AISI 304 paslanmaz çelik kolon (216 cm boy).
