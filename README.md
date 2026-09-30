@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://www.viodus.com/"><img src="https://img.shields.io/badge/Resmi_Web_Sitesi-viodus.com-BA9C5E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Viodus Website"></a>
+  <a href="https://linktr.ee/vioduscom"><img src="https://img.shields.io/badge/Linktree-vioduscom-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
   <a href="https://www.viodus.com/#viodusOnlineCatalog"><img src="https://img.shields.io/badge/2027_Dijital_Katalog-40_Sayfa_HD-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Katalog"></a>
   <img src="https://img.shields.io/badge/Gövde_Malzemesi-AISI_304_Paslanmaz_Çelik-0284c7?style=for-the-badge" alt="AISI 304">
   <img src="https://img.shields.io/badge/Üretici_Garantisi-3_Yıl_Tam_Garanti-16a34a?style=for-the-badge" alt="3 Yıl Garanti">
@@ -45,7 +46,7 @@
 * **Dayanıklılık:** Paslanmaz çelik ve UV ışınlarına dirençli dış mekân gövde yapısı.
 
 ### 4. [Robot Duş Sistemleri (Concealed Robot Showers)](https://www.viodus.com/robot-dus-sistemleri/)
-* **Tasarım:** Minimalist mimari hatlar, gizli tesisat bağlantıları ve pirinç yönlendirici kartuşlar.
+* **Tasarım:** Minimalist mimari hatlar, gizli tesisat bağlantıları ve seramik yönlendirici kartuşlar.
 * **Renk Seçenekleri:** Mat Siyah, Fırçalanmış Inox, Titanyum Gold, Satine ve Mat Beyaz.
 
 ---
@@ -67,6 +68,7 @@
 ## 📖 Dijital Katalog & Resmi İletişim
 
 * **Resmi Web Platformu:** [https://www.viodus.com/](https://www.viodus.com/)
+* **Resmi Linktree Hub (DR 94):** [linktr.ee/vioduscom](https://linktr.ee/vioduscom)
 * **İnteraktif 3D Katalog:** [Viodus 2027 Online Kataloğu İncele](https://www.viodus.com/#viodusOnlineCatalog)
 * **Kurumsal Belgeler:** [Belgelerimiz & Patent Sertifikaları](https://www.viodus.com/belgelerimiz/)
 * **Medium Mimari Yayını:** [Mimari Islak Hacim Standartları Kılavuzu (DA 95)](https://medium.com/@info_11645/https-www-viodus-com-havuz-dusu-secimi-klor-ve-tuza-dayanikli-kolonlar-1abca49f37da)
