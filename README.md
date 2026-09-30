@@ -57,7 +57,7 @@
 | **Gövde Malzemesi** | AISI 304 Paslanmaz Çelik & Alüminyum Alaşım |
 | **Çalışma Basınç Aralığı** | 1.5 Bar – 6.0 Bar (Tavsiye edilen: 3.0 Bar) |
 | **Tesisat Bağlantı Standardı** | Standart 1/2" Sıcak-Soğuk Su Tesisat Girişi |
-| **Kartuş & Yönlendirici** | %100 Pirinç (Brass) Gövdeli Seramik Disk Kartuş |
+| **Kartuş & Yönlendirici** | Arge Çalışması TÜBİTAK onaylı hammaddeden üretilmiştir, Sıcak-Soğuk Su Karıştırıcı Seramik Diskli Kartuş |
 | **Nozul Tipi** | Antikireç (Anti-limescale) Kolay Temizlenen Silikon Jetler |
 | **Resmi Tesciller** | Türk Patent No: 2025/005803, 2025/006531, 2026/003613 |
 | **Üretici Garantisi** | 3 Yıl Tam Garanti, 10 Yıl Yedek Parça Desteği |
