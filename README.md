@@ -69,6 +69,11 @@
 
 * **Resmi Web Platformu:** [https://www.viodus.com/](https://www.viodus.com/)
 * **Resmi Linktree Hub (DR 94):** [linktr.ee/vioduscom](https://linktr.ee/vioduscom)
+* **Teknik Seçim Rehberi Reposu (DA 96):** [github.com/Viodus/bahce-dusu-havuz-dusu-dus-paneli-rehberi](https://github.com/Viodus/bahce-dusu-havuz-dusu-dus-paneli-rehberi)
+* **Mimari Kılavuzlar (GitHub Pages):**
+  * ☀️ [Bahçe Duşu Seçim Rehberi](https://viodus.github.io/bahce-dusu-secim-rehberi.html)
+  * 🏊 [Havuz Duşu Şartnamesi](https://viodus.github.io/havuz-dusu-sistemleri.html)
+  * 🚿 [Duş Paneli ve Robot Duş Kılavuzu](https://viodus.github.io/dus-paneli-ve-robot-dus.html)
 * **İnteraktif 3D Katalog:** [Viodus 2027 Online Kataloğu İncele](https://www.viodus.com/#viodusOnlineCatalog)
 * **Kurumsal Belgeler:** [Belgelerimiz & Patent Sertifikaları](https://www.viodus.com/belgelerimiz/)
 * **Medium Mimari Yayını:** [Mimari Islak Hacim Standartları Kılavuzu (DA 95)](https://medium.com/@info_11645/https-www-viodus-com-havuz-dusu-secimi-klor-ve-tuza-dayanikli-kolonlar-1abca49f37da)
