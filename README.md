@@ -70,6 +70,7 @@
 * **Resmi Web Platformu:** [https://www.viodus.com/](https://www.viodus.com/)
 * **Resmi Linktree Hub (DR 94):** [linktr.ee/vioduscom](https://linktr.ee/vioduscom)
 * **Teknik Seçim Rehberi Reposu (DA 96):** [github.com/Viodus/bahce-dusu-havuz-dusu-dus-paneli-rehberi](https://github.com/Viodus/bahce-dusu-havuz-dusu-dus-paneli-rehberi)
+* **Havuz & Bahçe Şartname Reposu (DA 96):** [github.com/Viodus/havuz-dusu-ve-bahce-dusu-teknik-sartnamesi](https://github.com/Viodus/havuz-dusu-ve-bahce-dusu-teknik-sartnamesi)
 * **Mimari Kılavuzlar (GitHub Pages):**
   * ☀️ [Bahçe Duşu Seçim Rehberi](https://viodus.github.io/bahce-dusu-secim-rehberi.html)
   * 🏊 [Havuz Duşu Şartnamesi](https://viodus.github.io/havuz-dusu-sistemleri.html)
